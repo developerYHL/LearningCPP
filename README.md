@@ -34,3 +34,5 @@
 |       |                                                                                                                                              | git pull                                                      |
 | 29    | Push My Changes To A Remote Repository                                                                                                       | git push remote-name branch-name                              |
 |       |                                                                                                                                              | git push -u origin master                                     |
+| 30    | removes the local, remote branch                                                                                                              | git branch -d branch-name                              |
+|       |                                                                                                                                              | git push origin --delete remote-name                          |
