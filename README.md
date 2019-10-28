@@ -32,5 +32,5 @@
 | 27    | Find Out Where A Cloned Repository Originated                                                                                                | git remote -v                                                 |
 | 28    | Pull In Changes From A Remote Repository                                                                                                     | git pull remote branch                                        |
 | 29    |                                                                                                                                              | git pull                                                      |
-| 29    | Push My Changes To A Remote Repository                                                                                                       | git push remote-name branch-name                              |
+|       | Push My Changes To A Remote Repository                                                                                                       | git push remote-name branch-name                              |
 |       |                                                                                                                                              | git push -u origin master                                     |
