@@ -31,10 +31,6 @@
 | 26    | Create A Copy Of An Existing Repository                                                                                                      | git clone URL                                                 |
 | 27    | Find Out Where A Cloned Repository Originated                                                                                                | git remote -v                                                 |
 | 28    | Pull In Changes From A Remote Repository                                                                                                     | git pull remote branch                                        |
+| 29    |                                                                                                                                              | git pull                                                      |
 | 29    | Push My Changes To A Remote Repository                                                                                                       | git push remote-name branch-name                              |
-|       |                                                                         
-              | git push -u origin master                                     |
-| 30    | removes the local, remote branch  
-              | git branch -d branch-name                                     |
-|       |                                                                         
-              | git push origin --delete branch-name                          |
+|       |                                                                                                                                              | git push -u origin master                                     |
