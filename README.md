@@ -1,7 +1,7 @@
 # LearningCPP
 ========================
 
-<code?
+<code>
 '''
 $ git init
 '''
